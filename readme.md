@@ -1,1 +1,0 @@
-works with groqcloud, move api key from index to .env
